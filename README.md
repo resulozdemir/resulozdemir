@@ -21,10 +21,10 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [C#](https://github.com/resulozdemir/PatikaDev-C-Sharp)  
+- 🔭 I’m currently working on [Java](https://github.com/resulozdemir/Java) 
   
 
-- 🌱 I’m currently learning C# and .Net Core
+- 🌱 I’m currently learning Java
 
 
 </td><td valign="top" width="50%">
