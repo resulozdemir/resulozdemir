@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Resul Ozdemir</h1>
 <h3 align="center">Intern Embedded Software Developer</h3>
 
-
 - 🔭 I’m currently working on **Writing Network Driver**
 
 - 🌱 I’m currently learning **Embedded Development**
