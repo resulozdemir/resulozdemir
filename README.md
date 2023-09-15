@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Resul Ozdemir</h1>
 <h3 align="center">Intern Embedded Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=resulozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="resulozdemir" /> </p>
 
 - 🔭 I’m currently working on **Writing Network Driver**
 
