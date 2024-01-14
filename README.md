@@ -5,18 +5,13 @@
 
 - 🌱 I’m currently learning **Embedded Development**
 
-- 📝 I regularly write articles on [https://medium.com/@resulozdemir](https://medium.com/@resulozdemir)
-
 - 📫 How to reach me **resulozddemir@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/resulekremozdemir/](https://www.linkedin.com/in/resulekremozdemir/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/resulozdmir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="resulozdmir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/resulekremozdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="resulekremozdemir" height="30" width="40" /></a>
-<a href="https://medium.com/@resulozdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@resulozdemir" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@zemirsd9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@zemirsd9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
