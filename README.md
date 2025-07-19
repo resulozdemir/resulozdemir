@@ -1,15 +1,11 @@
 <h1 align="center">Hi, I'm Resul Özdemir 👋</h1>
 <p align="center">Embedded & Backend Software Developer from Istanbul, Turkey</p>
 
----
-
 ## 🧑‍💻 About Me
 
 • Computer Engineering graduate, passionate about **low-level / embedded systems** and **backend development**.  
 • Currently sharpening my skills in **Linux kernel**, device drivers and IoT connectivity.  
 • Love building side-projects.
-
----
 
 ## 🔭 I’m Working On
 
@@ -21,21 +17,17 @@
 | 🐍 **Python Algorithms** | [`python-cellular-automaton`](https://github.com/resulozdemir/python-cellular-automaton) |
 | ☕ **Java Bootcamps** | [`java-basic-examples`](https://github.com/resulozdemir/java-basic-examples) • [`java-camp-exercises`](https://github.com/resulozdemir/java-camp-exercises) |
 
----
-
 ## 🌱 Currently Learning
 
 * **Bare-metal STM32** development (HAL & LL)  
 * **RTOS concepts** (FreeRTOS, Zephyr)
 
----
 
 ## ✉️ Reach Me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/resulekremozdemir/) &nbsp;&nbsp;
 <a href="mailto:resulozddemir@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
----
 
 ## 🛠️ Languages & Tools
 
@@ -53,5 +45,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </p>
-
----
