@@ -3,8 +3,8 @@
 
 ## 🧑‍💻 About Me
 
-• Computer Engineer with a strong technical foundation spanning from embedded systems to backend development.
-• Experienced in Linux device drivers, IoT connectivity, and RESTful API development.
+• Computer Engineer with a strong technical foundation spanning from embedded systems to backend development.  
+• Experienced in Linux device drivers, IoT connectivity, and RESTful API development. 
 
 ## 🔭 I’m Working On
 
