@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Resul Özdemir 👋</h1>
-<p align="center">Embedded & Backend Software Developer from Istanbul, Turkey</p>
+<p align="center">Software Developer from Istanbul, Turkey</p>
 
 ## 🧑‍💻 About Me
 
-• Computer Engineering graduate, passionate about **low-level / embedded systems** and **backend development**.  
-• Currently sharpening my skills in **Linux kernel**, device drivers and IoT connectivity.  
-• Love building side-projects.
+• Computer Engineer with a strong technical foundation spanning from embedded systems to backend development.
+• Experienced in Linux device drivers, IoT connectivity, and RESTful API development.
 
 ## 🔭 I’m Working On
 
@@ -16,11 +15,6 @@
 | 🔒 **Security / Firewall** | [`custom-iptables-firewall`](https://github.com/resulozdemir/custom-iptables-firewall) |
 | 🐍 **Python Algorithms** | [`python-cellular-automaton`](https://github.com/resulozdemir/python-cellular-automaton) |
 | ☕ **Java Bootcamps** | [`java-basic-examples`](https://github.com/resulozdemir/java-basic-examples) • [`java-camp-exercises`](https://github.com/resulozdemir/java-camp-exercises) |
-
-## 🌱 Currently Learning
-
-* **Bare-metal STM32** development (HAL & LL)  
-* **RTOS concepts** (FreeRTOS, Zephyr)
 
 
 ## ✉️ Reach Me 
